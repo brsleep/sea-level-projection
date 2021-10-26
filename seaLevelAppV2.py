@@ -33,6 +33,8 @@ plt.yticks(np.arange(-.5,.13,.01))
 
 plt.xlabel("Year")
 plt.ylabel("Sea Level(m)")
+
+
 plt.title("8665530 Charleston, SC")
 plt.grid()
 
